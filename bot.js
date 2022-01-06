@@ -133,7 +133,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Catbot working!')
+            chalk.green.bold('✅ kellymowl working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
