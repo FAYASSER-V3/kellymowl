@@ -1,16 +1,16 @@
 ## 𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐀𝐋𝐋❤️ 
-### 𝐍𝐄𝐖 𝐂𝐀𝐓𝐁𝐎𝐓 ..
+### 𝐍𝐄𝐖 KELLY MOWL..
 
-## ʙᴏᴛ ɪs ᴡᴏʀᴋɪɴɢ ᴏʀ ɴᴏᴛ
+## KELLY MOWL BY FAYASSED
 
 ```
-💝𝗖𝗔𝗧𝗕𝗢𝗧 𝗪𝗢𝗥𝗞𝗜𝗡𝗚
+💝KELLY MOWL 𝗪𝗢𝗥𝗞𝗜𝗡𝗚
 ```
 
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/h0S3Z4D.png" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="CATBOT" src="https://img.shields.io/badge/Basilser-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="KELLYMOWL" src="https://img.shields.io/badge/Basilser-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/itsmebasil0"><img title="Author" src="https://img.shields.io/badge/Author-itsmebasil0/catbots?color=black&style=for-the-badge&logo=whatsapp"></a>
