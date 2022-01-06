@@ -8,7 +8,7 @@
     "success_url": "https://github.com/itsmebasil0/catbot",
     "stack": "container",
     "env": {
-        "CATBOT_SESSION": {
+        "KELLYMOWL_SESSION": {
             "description": "Type here yours Asena Session.",
             "required": true
         },
