@@ -3,7 +3,7 @@
 
 Hello Dude🙋🏻‍♀️Welcome to my Repo hi 📢Introduce myself 🙂I'm FAYAS 🚩I'm a beginner in this field 📍From Chungam,Alappuzha,Kerala,🇮🇳 🏫Students
 
-## KELLY MOWL BY FAYASSED
+## KELLY MOWL BY FAYASSER
 
 ```
 💝KELLY MOWL 𝗪𝗢𝗥𝗞𝗜𝗡𝗚
