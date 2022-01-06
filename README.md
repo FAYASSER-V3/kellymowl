@@ -84,7 +84,7 @@ bash <(curl -L https://t.ly/tHxh)
 ``` 
 ## Click here to join whatsapp group 
 
-[![hehe](https://i.imgur.com/6gTX8RE.jpg)](https://chat.whatsapp.com/EXjFwp6nhYm36uxUyLvaHM)
+[![hehe](images.jpeg)](https://chat.whatsapp.com/EXjFwp6nhYm36uxUyLvaHM)
 
 ## F.A.Q
 Answer a few frequently asked questions;
